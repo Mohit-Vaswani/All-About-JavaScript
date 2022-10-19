@@ -160,3 +160,19 @@ const elements = ["item-1", "item-2", "item-3"];
 console.log(elements.unshift("item-new")); // 4
 
 console.log(elements[0]); // item-new
+
+// ========= Basic Array Question ============ //
+
+// 1. Write a function that takes an array (a) as argument. Extract the first 3 elements of 'a' & Return the resulting array.
+
+// 2. Write a function that takes an array of string as argument. Sort the array.
+
+// 3. Write a function that takes array (a) and a value (n) as argument. Return the nth element of 'a'.
+
+// 4. Write a function that should return sum of numbers.
+
+// 5. Write a function that return only negative value.
+
+// 6. sort an array of numbers in descending order.
+
+// 7. Return the average of the numbers.
