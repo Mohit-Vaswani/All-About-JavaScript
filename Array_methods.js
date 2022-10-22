@@ -161,6 +161,8 @@ console.log(elements.unshift("item-new")); // 4
 
 console.log(elements[0]); // item-new
 
+// # Important : On the basic of performance -> push & pop are fast as compared to unshift & shift.
+
 // ========= Basic Array Question ============ //
 
 // 1. Write a function that takes an array (a) as argument. Extract the first 3 elements of 'a' & Return the resulting array.
